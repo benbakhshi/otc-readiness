@@ -1,0 +1,55 @@
+{
+  "generated_at": "2026-07-03T03:28:34.830Z",
+  "check_only": false,
+  "reconciliation_issues": [],
+  "files": [
+    {
+      "template": "formation/action-of-sole-incorporator.md",
+      "unresolved": []
+    },
+    {
+      "template": "formation/bylaws.md",
+      "unresolved": []
+    },
+    {
+      "template": "formation/certificate-of-incorporation.md",
+      "unresolved": []
+    },
+    {
+      "template": "formation/founder-stock-purchase-agreement.md",
+      "unresolved": []
+    },
+    {
+      "template": "formation/initial-board-consent.md",
+      "unresolved": []
+    },
+    {
+      "template": "formation/stock-ledger.md",
+      "unresolved": []
+    },
+    {
+      "template": "governance/annual-stockholder-consent.md",
+      "unresolved": []
+    },
+    {
+      "template": "governance/board-consent.md",
+      "unresolved": []
+    },
+    {
+      "template": "otc/attorney-letter.md",
+      "unresolved": []
+    },
+    {
+      "template": "otc/disclosure-statement.md",
+      "unresolved": []
+    },
+    {
+      "template": "otc/form-211-support-package.md",
+      "unresolved": []
+    },
+    {
+      "template": "otc/management-certification.md",
+      "unresolved": []
+    }
+  ]
+}

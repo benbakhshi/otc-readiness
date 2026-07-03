@@ -1,0 +1,60 @@
+{
+  "_comment": "Section metadata for the Company Master editor in the web app. Field editors are rendered generically from company-master.json; this file supplies human labels, help text, and which templates consume each section.",
+  "sections": {
+    "company": {
+      "label": "Company Information",
+      "help": "Core identity. Feeds every document. fiscal_year_end drives the entire compliance calendar (MM-DD).",
+      "used_by": ["all templates"]
+    },
+    "incorporator": {
+      "label": "Incorporator",
+      "help": "Person who signs the Certificate of Incorporation and the Action of Sole Incorporator.",
+      "used_by": ["certificate-of-incorporation", "action-of-sole-incorporator"]
+    },
+    "registered_agent": {
+      "label": "Registered Agent",
+      "help": "Delaware registered agent (e.g., a commercial agent service). Required on the Certificate of Incorporation.",
+      "used_by": ["certificate-of-incorporation"]
+    },
+    "securities": {
+      "label": "Capital Structure",
+      "help": "Authorized/outstanding shares, par value, CUSIP, ticker. Blank-check preferred is standard for OTC issuers. Outstanding shares must always reconcile to issuance_history.",
+      "used_by": ["certificate-of-incorporation", "initial-disclosure-statement", "annual-report", "quarterly-report", "stock-ledger"]
+    },
+    "officers": {
+      "label": "Officers",
+      "help": "All executive officers with bios. Pink disclosure requires name, title, and background of every officer.",
+      "used_by": ["initial-board-consent", "initial-disclosure-statement", "annual-report"]
+    },
+    "directors": {
+      "label": "Directors",
+      "help": "All board members. Delaware requires at least one. Disclosure requires bios and other public-company board seats.",
+      "used_by": ["action-of-sole-incorporator", "initial-disclosure-statement", "annual-report"]
+    },
+    "beneficial_owners_over_5pct": {
+      "label": "5%+ Beneficial Owners",
+      "help": "Every person or entity beneficially owning more than 5% of any class. Required disclosure item.",
+      "used_by": ["initial-disclosure-statement", "annual-report"]
+    },
+    "issuance_history": {
+      "label": "Share Issuance History",
+      "help": "Every issuance since inception (or last 2 fiscal years + interim for disclosure): date, holder, shares, consideration, exemption relied upon, restricted status. Transfer agents and market makers will demand this reconcile perfectly.",
+      "used_by": ["initial-disclosure-statement", "stock-ledger", "form-211-support"]
+    },
+    "service_providers": {
+      "label": "Service Providers",
+      "help": "Transfer agent (must be SEC-registered and in the OTC Transfer Agent Verified Shares Program — required for OTCID), securities counsel, accountant (GAAP; PCAOB only needed for OTCQB/QX), sponsoring market maker.",
+      "used_by": ["initial-disclosure-statement", "attorney-letter", "annual-report"]
+    },
+    "banking": {
+      "label": "Banking",
+      "help": "Corporate bank account status (board consent authorizes opening).",
+      "used_by": ["initial-board-consent"]
+    },
+    "otc": {
+      "label": "OTC Status",
+      "help": "Where the company is in the quoting process. profile_verified_date drives the 6-month re-verification reminder.",
+      "used_by": ["compliance calendar"]
+    }
+  }
+}

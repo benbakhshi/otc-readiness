@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>OTC Readiness Manager</title>
+<link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+<div id="login-screen" class="hidden">
+  <div class="login-card">
+    <h1>OTC Readiness Manager</h1>
+    <p class="muted">Public company preparation &amp; compliance</p>
+    <form id="login-form">
+      <label>Email <input type="email" id="login-email" required autocomplete="username"></label>
+      <label>Password <input type="password" id="login-password" required autocomplete="current-password"></label>
+      <button type="submit" class="btn primary">Sign in</button>
+      <div id="login-error" class="error"></div>
+    </form>
+  </div>
+</div>
+
+<div id="app" class="hidden">
+  <header>
+    <div class="brand">OTC Readiness <span id="company-name" class="muted"></span></div>
+    <nav id="nav">
+      <button data-view="dashboard" class="active">Dashboard</button>
+      <button data-view="checklist">Checklist</button>
+      <button data-view="master">Company Master</button>
+      <button data-view="documents">Documents</button>
+      <button data-view="calendar">Calendar</button>
+      <button data-view="users" id="nav-users" class="hidden">Users</button>
+    </nav>
+    <div class="user-box"><span id="me-label"></span> <button id="logout" class="btn small">Sign out</button></div>
+  </header>
+  <main id="main"></main>
+</div>
+
+<script src="/app.js"></script>
+</body>
+</html>

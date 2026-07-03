@@ -1,0 +1,95 @@
+{
+  "_comment": "MASTER DATA FILE — single source of truth. Every document template pulls from this file. Edit here (or via the web app's Company Master page), regenerate documents, and every form stays consistent.",
+  "company": {
+    "legal_name": "[COMPANY NAME], Inc.",
+    "dba": "",
+    "state_of_incorporation": "Delaware",
+    "date_of_incorporation": "",
+    "fiscal_year_end": "12-31",
+    "ein": "",
+    "address_street": "",
+    "address_city": "",
+    "address_state": "",
+    "address_zip": "",
+    "phone": "",
+    "email": "",
+    "website": "",
+    "business_description": "",
+    "sic_code": "",
+    "employees_count": 0,
+    "is_shell": false,
+    "predecessor_names": []
+  },
+  "incorporator": {
+    "name": "",
+    "address": ""
+  },
+  "registered_agent": {
+    "name": "",
+    "address": "",
+    "county": ""
+  },
+  "securities": {
+    "common": {
+      "class_name": "Common Stock",
+      "par_value": "0.0001",
+      "authorized_shares": 200000000,
+      "outstanding_shares": 0,
+      "holders_of_record": 0
+    },
+    "preferred": {
+      "class_name": "Preferred Stock",
+      "par_value": "0.0001",
+      "authorized_shares": 20000000,
+      "outstanding_shares": 0,
+      "blank_check": true
+    },
+    "desired_ticker": "",
+    "cusip": "",
+    "restricted_shares": 0,
+    "free_trading_shares": 0
+  },
+  "officers": [
+    { "name": "", "title": "Chief Executive Officer", "since": "", "bio": "", "hours_per_week": "" },
+    { "name": "", "title": "Chief Financial Officer / Secretary", "since": "", "bio": "", "hours_per_week": "" }
+  ],
+  "directors": [
+    { "name": "", "since": "", "independent": false, "other_public_boards": "", "bio": "" }
+  ],
+  "beneficial_owners_over_5pct": [
+    { "holder": "", "class": "Common Stock", "shares": 0, "pct": "", "notes": "" }
+  ],
+  "issuance_history": [
+    {
+      "date": "",
+      "holder": "",
+      "class": "Common Stock",
+      "shares": 0,
+      "price_per_share": "",
+      "consideration": "",
+      "exemption": "Section 4(a)(2)",
+      "restricted": true,
+      "notes": "Founder shares"
+    }
+  ],
+  "service_providers": {
+    "transfer_agent": { "name": "", "address": "", "phone": "", "sec_registered": true, "otc_verified_program": false },
+    "securities_counsel": { "name": "", "firm": "", "address": "", "email": "", "phone": "", "bar_state": "" },
+    "accountant": { "name": "", "firm": "", "address": "", "phone": "", "pcaob_registered": false },
+    "market_maker": { "name": "", "firm": "", "contact": "" },
+    "investor_relations": { "name": "", "firm": "" }
+  },
+  "banking": {
+    "bank_name": "",
+    "account_opened": false
+  },
+  "otc": {
+    "tier_target": "OTCID Basic Market",
+    "otciq_account": false,
+    "profile_verified_date": "",
+    "form_211_filed_date": "",
+    "first_quote_date": ""
+  },
+  "legal_proceedings": "None.",
+  "state_of_business_operations": ""
+}
