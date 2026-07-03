@@ -44,6 +44,6 @@ Roles: **admin** (everything + user management), **editor** (checklist, master d
 - Quarterly reports: **45 days** after quarter end · Annual report: **90 days** after FYE
 - Management Certification: annually, ≤ **45 days after the annual report deadline**
 - Profile verification: every **6 months** · Late-filing notice: within **1 business day** (+5d/+15d cure)
-- Application **$3,500**; annual fee ~**$6,000–7,500** (verify current schedule)
+- Application **$3,500**; annual fee **$8,040** (verified against the fee schedule updated July 1, 2026)
 - Rule 144 hold for non-reporting issuers: **12 months** — plan seed placements early
 - FINRA Rule 5250: **never pay a market maker** to file Form 211

@@ -12,11 +12,11 @@ OTC Markets Group Inc.
 300 Vesey Street, 12th Floor
 New York, NY 10282
 
-**Re: [COMPANY NAME], Inc. — Ticker: **
+**Re: Complete Management Inc — Ticker: CMPL**
 
 Ladies and Gentlemen:
 
-We have been retained by [COMPANY NAME], Inc., a Delaware corporation (the "Company"), to provide this letter pursuant to the OTC Markets Group Inc. Attorney Letter Agreement between OTC Markets Group and the undersigned firm, and in accordance with the current OTC Markets "Attorney Letters with Respect to Current Information" guidelines.
+We have been retained by Complete Management Inc, a Delaware corporation (the "Company"), to provide this letter pursuant to the OTC Markets Group Inc. Attorney Letter Agreement between OTC Markets Group and the undersigned firm, and in accordance with the current OTC Markets "Attorney Letters with Respect to Current Information" guidelines.
 
 In connection with this letter, we have reviewed the following disclosure statements and financial reports posted through OTCIQ (collectively, the "Information"):
 

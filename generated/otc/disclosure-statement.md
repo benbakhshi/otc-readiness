@@ -4,7 +4,7 @@
 <!-- Guidelines. Confirm against the current guidelines document at otcmarkets.com before each filing. -->
 <!-- Financial statements must be included in the SAME document and be machine-readable (no scanned images). -->
 
-# [COMPANY NAME], INC.
+# COMPLETE MANAGEMENT INC
 ## DISCLOSURE STATEMENT — [INITIAL / ANNUAL / QUARTERLY] REPORT
 ### For the period ended **[PERIOD END DATE]**
 
@@ -19,15 +19,15 @@
 
 ## 1) Name and Address of the Issuer and Its Predecessors
 
-**Exact name:** [COMPANY NAME], Inc.
+**Exact name:** Complete Management Inc
 **Prior names (past five years):** 
-**Address of principal executive offices:** , ,  
-**Phone:**  | **Email:**  | **Website:** 
-**State of incorporation:** Delaware (incorporated )
+**Address of principal executive offices:** 123 Elm Street, Wilmington, DE 44444
+**Phone:** 234-545-54545 | **Email:** asdf@asdf.com | **Website:** completemgmt.com
+**State of incorporation:** Delaware (incorporated 07/02/2026)
 **Fiscal year end:** 12-31
 **Has the issuer or any predecessor been in bankruptcy, receivership or similar proceeding?** [No / describe]
 **Has there been a change of control, name change, or material reclassification in the past 12 months?** [No / describe]
-**SIC code:** 
+**SIC code:** 6282-17
 
 ## 2) Security Information
 
@@ -38,15 +38,15 @@
 
 | Item | Value |
 |------|-------|
-| Trading symbol |  |
+| Trading symbol | CMPL |
 | CUSIP |  |
 | Class | Common Stock |
 | Par value | $0.0001 |
 | Shares authorized | 200,000,000 |
 | Shares outstanding | 0 |
-| Freely tradable shares (public float) | 0 |
+| Freely tradable shares (public float) | 1,000,000 |
 | Restricted shares | 0 |
-| Total shareholders of record | 0 |
+| Total shareholders of record | 4 |
 | *(as of date)* | [DATE] |
 
 **Other classes authorized but not publicly traded:** Preferred Stock — 20,000,000 authorized, 0 outstanding.
@@ -75,7 +75,7 @@
 ## 4) Issuer's Business, Products and Services
 
 **A. Description of the business:**
-
+asset and property management
 
 **B. Principal products or services and their markets:**
 [Describe]
@@ -92,17 +92,17 @@
 
 | Name | Title(s) | Since | Approx. hours/week | Biography |
 |------|----------|-------|--------------------|-----------|
-|  | Chief Executive Officer |  |  |  |
-|  | Chief Financial Officer / Secretary |  |  |  |
+| Benjamin Bakhshi | Chief Executive Officer | 2026 | 20 |  |
+| Benjamin Bakhshi | Chief Financial Officer / Secretary | 2026 | 20 |  |
 
-|  | Director |  |  |  |
+| Benjamin Bakhshi | Director | 2026 |  |  |
 
 
 **B. Beneficial owners of more than 5% of any class:**
 
 | Holder | Class | Shares | % of Class | Notes |
 |--------|-------|--------|------------|-------|
-|  | Common Stock | 0 |  |  |
+| Benjamin and Bar Bakhshi Trust | Common Stock | 100,000 | 10% |  |
 
 
 **C. Legal/Disciplinary History (past 10 years, for each officer, director and control person):** Has any such person been the subject of: (1) a criminal conviction or pending criminal proceeding; (2) an order/judgment enjoining them from securities, banking or insurance activities; (3) an SEC/CFTC finding of a violation; (4) an SRO disciplinary action? **[No / describe]**
@@ -143,9 +143,9 @@ The following financial statements are included in this document (machine-readab
 
 *(Both the CEO and CFO must certify in every quarterly and annual report. If one person holds both offices, state so and sign once in both capacities.)*
 
-I, ****, certify that:
+I, **Benjamin Bakhshi**, certify that:
 
-1. I have reviewed this disclosure statement of [COMPANY NAME], Inc.;
+1. I have reviewed this disclosure statement of Complete Management Inc;
 2. Based on my knowledge, this disclosure statement does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which they were made, not misleading with respect to the period covered by this disclosure statement; and
 3. Based on my knowledge, the financial statements, and other financial information included or incorporated by reference in this disclosure statement, fairly present in all material respects the financial condition, results of operations and cash flows of the issuer as of, and for, the periods presented.
 
@@ -154,13 +154,13 @@ I, ****, certify that:
 &nbsp;
 
 _______________________________
-, Chief Executive Officer
+Benjamin Bakhshi, Chief Executive Officer
 
-I, ****, certify the same statements 1–3 above.
+I, **Benjamin Bakhshi**, certify the same statements 1–3 above.
 
 **Date:** [DATE]
 
 &nbsp;
 
 _______________________________
-, Chief Financial Officer / Secretary
+Benjamin Bakhshi, Chief Financial Officer / Secretary

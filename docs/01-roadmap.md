@@ -20,14 +20,14 @@
 
 | Item | Cost |
 |------|------|
-| DE formation (min filing tax with $0.0001 par) | ~$89–$500 |
+| DE formation (min fee with $0.0001 par) | $109–$500 |
 | Registered agent | $50–$300/yr |
 | CUSIP | $210 |
 | Transfer agent setup | $2,500–$5,000 + monthly |
 | Securities counsel (going-public project) | $20,000–$40,000 |
 | GAAP financials (unaudited; audit not required for OTCID) | varies; audit $15K–$50K if elected |
 | OTCID application | $3,500 |
-| OTCID annual fee | ~$6,000–$7,500 (confirm current fee schedule) |
+| OTCID annual fee | $8,040/yr (verified July 2026; raised from $7,500 on July 1, 2026) |
 | DE franchise tax (assumed par value method, most shares issued) | often $400–$800/yr |
 | **All-in through first quotation** | **~$35,000–$75,000** |
 

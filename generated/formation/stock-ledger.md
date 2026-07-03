@@ -1,12 +1,12 @@
 <!-- TEMPLATE: Stock Ledger / Issuance Register -->
 <!-- Auto-generated from issuance_history in the master file. This is the record your transfer agent and sponsoring market maker will reconcile against. -->
 
-# STOCK LEDGER — [COMPANY NAME], Inc.
+# STOCK LEDGER — Complete Management Inc
 
 **State of incorporation:** Delaware
 **Authorized:** 200,000,000 shares of Common Stock (par $0.0001); 20,000,000 shares of Preferred Stock (par $0.0001)
 **Outstanding (Common Stock):** 0
-**Holders of record:** 0
+**Holders of record:** 4
 **Ledger generated:** July 2, 2026
 
 ## Issuance History

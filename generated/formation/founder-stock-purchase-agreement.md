@@ -3,7 +3,7 @@
 
 # COMMON STOCK PURCHASE AGREEMENT
 
-This Common Stock Purchase Agreement (this "Agreement") is made as of July 2, 2026 between [COMPANY NAME], Inc., a Delaware corporation (the "Company"), and **[FOUNDER NAME]** ("Purchaser").
+This Common Stock Purchase Agreement (this "Agreement") is made as of July 2, 2026 between Complete Management Inc, a Delaware corporation (the "Company"), and **[FOUNDER NAME]** ("Purchaser").
 
 ## 1. Purchase and Sale
 
@@ -29,12 +29,12 @@ This Agreement is governed by the laws of the State of Delaware. This Agreement 
 
 ---
 
-**COMPANY:** [COMPANY NAME], Inc.
+**COMPANY:** Complete Management Inc
 
 &nbsp;
 
 By: _______________________________
-Name: 
+Name: Benjamin Bakhshi
 Title: Chief Executive Officer
 
 **PURCHASER:**

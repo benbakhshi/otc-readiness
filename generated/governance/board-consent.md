@@ -1,9 +1,9 @@
 <!-- TEMPLATE: Generic Unanimous Written Consent of the Board -->
 <!-- Use for any board action: share issuances, officer changes, engaging providers, approving reports. -->
 
-# UNANIMOUS WRITTEN CONSENT OF THE BOARD OF DIRECTORS OF [COMPANY NAME], INC.
+# UNANIMOUS WRITTEN CONSENT OF THE BOARD OF DIRECTORS OF COMPLETE MANAGEMENT INC
 
-The undersigned, constituting all of the members of the Board of Directors of [COMPANY NAME], Inc., a Delaware corporation (the "Corporation"), acting pursuant to Section 141(f) of the DGCL, hereby adopt the following resolutions by written consent as of **[DATE]**:
+The undersigned, constituting all of the members of the Board of Directors of Complete Management Inc, a Delaware corporation (the "Corporation"), acting pursuant to Section 141(f) of the DGCL, hereby adopt the following resolutions by written consent as of **[DATE]**:
 
 **WHEREAS**, [recitals — background for the action];
 
@@ -18,6 +18,6 @@ IN WITNESS WHEREOF, the undersigned have executed this Consent as of the date fi
 &nbsp;
 
 _______________________________
-, Director
+Benjamin Bakhshi, Director
 
 

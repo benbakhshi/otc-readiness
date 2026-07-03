@@ -8,7 +8,7 @@
 - **Par value:** nominal — **$0.0001**. Delaware computes the incorporation filing tax on aggregate par value (8 Del. C. §391): 500M × $0.0001 = $50,000 of capital → minimum tax. Never use no-par stock at scale.
 - **Blank-check preferred:** authorize **10M–20M undesignated preferred**; board fixes series terms later by certificate of designation without a stockholder vote.
 - Include: DGCL §102(b)(7) exculpation (directors AND officers post-2022 amendment), indemnification, board power to amend bylaws.
-- **Filing cost:** minimum ~$89 ($50 Division fee + $15 min filing tax + $24 county fee). ([DE fee schedule](https://corp.delaware.gov/fee/))
+- **Filing cost:** minimum **$109** per the DE Division of Corporations fee schedule (revised Aug 1, 2024, still current mid-2026; varies with authorized stock — the $15 statutory minimum filing tax under 8 Del. C. §391 is one component). ([DE fee schedule](https://corp.delaware.gov/fee/))
 
 ## Annual franchise tax (due March 1, with $50 annual report fee)
 

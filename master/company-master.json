@@ -1,33 +1,33 @@
 {
   "_comment": "MASTER DATA FILE — single source of truth. Every document template pulls from this file. Edit here (or via the web app's Company Master page), regenerate documents, and every form stays consistent.",
   "company": {
-    "legal_name": "[COMPANY NAME], Inc.",
-    "dba": "",
+    "legal_name": "Complete Management Inc",
+    "dba": "Complete",
     "state_of_incorporation": "Delaware",
-    "date_of_incorporation": "",
+    "date_of_incorporation": "07/02/2026",
     "fiscal_year_end": "12-31",
-    "ein": "",
-    "address_street": "",
-    "address_city": "",
-    "address_state": "",
-    "address_zip": "",
-    "phone": "",
-    "email": "",
-    "website": "",
-    "business_description": "",
-    "sic_code": "",
-    "employees_count": 0,
+    "ein": "54-545545",
+    "address_street": "123 Elm Street",
+    "address_city": "Wilmington",
+    "address_state": "DE",
+    "address_zip": "44444",
+    "phone": "234-545-54545",
+    "email": "asdf@asdf.com",
+    "website": "completemgmt.com",
+    "business_description": "asset and property management",
+    "sic_code": "6282-17",
+    "employees_count": 2,
     "is_shell": false,
     "predecessor_names": []
   },
   "incorporator": {
-    "name": "",
-    "address": ""
+    "name": "Benjamin Bakhshi",
+    "address": "306 Menhaden Court, Foster City, CA, 94404"
   },
   "registered_agent": {
-    "name": "",
-    "address": "",
-    "county": ""
+    "name": "Delaware inc",
+    "address": "123 Elm St, Wilimington, DE, 44444",
+    "county": "Wilmington"
   },
   "securities": {
     "common": {
@@ -35,7 +35,7 @@
       "par_value": "0.0001",
       "authorized_shares": 200000000,
       "outstanding_shares": 0,
-      "holders_of_record": 0
+      "holders_of_record": 4
     },
     "preferred": {
       "class_name": "Preferred Stock",
@@ -44,20 +44,44 @@
       "outstanding_shares": 0,
       "blank_check": true
     },
-    "desired_ticker": "",
+    "desired_ticker": "CMPL",
     "cusip": "",
     "restricted_shares": 0,
-    "free_trading_shares": 0
+    "free_trading_shares": 1000000
   },
   "officers": [
-    { "name": "", "title": "Chief Executive Officer", "since": "", "bio": "", "hours_per_week": "" },
-    { "name": "", "title": "Chief Financial Officer / Secretary", "since": "", "bio": "", "hours_per_week": "" }
+    {
+      "name": "Benjamin Bakhshi",
+      "title": "Chief Executive Officer",
+      "since": "2026",
+      "bio": "",
+      "hours_per_week": "20"
+    },
+    {
+      "name": "Benjamin Bakhshi",
+      "title": "Chief Financial Officer / Secretary",
+      "since": "2026",
+      "bio": "",
+      "hours_per_week": "20"
+    }
   ],
   "directors": [
-    { "name": "", "since": "", "independent": false, "other_public_boards": "", "bio": "" }
+    {
+      "name": "Benjamin Bakhshi",
+      "since": "2026",
+      "independent": false,
+      "other_public_boards": "",
+      "bio": ""
+    }
   ],
   "beneficial_owners_over_5pct": [
-    { "holder": "", "class": "Common Stock", "shares": 0, "pct": "", "notes": "" }
+    {
+      "holder": "Benjamin and Bar Bakhshi Trust",
+      "class": "Common Stock",
+      "shares": 100000,
+      "pct": "10%",
+      "notes": ""
+    }
   ],
   "issuance_history": [
     {
@@ -73,11 +97,37 @@
     }
   ],
   "service_providers": {
-    "transfer_agent": { "name": "", "address": "", "phone": "", "sec_registered": true, "otc_verified_program": false },
-    "securities_counsel": { "name": "", "firm": "", "address": "", "email": "", "phone": "", "bar_state": "" },
-    "accountant": { "name": "", "firm": "", "address": "", "phone": "", "pcaob_registered": false },
-    "market_maker": { "name": "", "firm": "", "contact": "" },
-    "investor_relations": { "name": "", "firm": "" }
+    "transfer_agent": {
+      "name": "",
+      "address": "",
+      "phone": "",
+      "sec_registered": true,
+      "otc_verified_program": false
+    },
+    "securities_counsel": {
+      "name": "",
+      "firm": "",
+      "address": "",
+      "email": "",
+      "phone": "",
+      "bar_state": ""
+    },
+    "accountant": {
+      "name": "",
+      "firm": "",
+      "address": "",
+      "phone": "",
+      "pcaob_registered": false
+    },
+    "market_maker": {
+      "name": "",
+      "firm": "",
+      "contact": ""
+    },
+    "investor_relations": {
+      "name": "",
+      "firm": ""
+    }
   },
   "banking": {
     "bank_name": "",

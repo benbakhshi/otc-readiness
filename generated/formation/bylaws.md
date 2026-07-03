@@ -1,12 +1,12 @@
 <!-- TEMPLATE: Bylaws (Delaware C Corp) -->
 <!-- DRAFT FOR COUNSEL REVIEW — condensed public-company-ready bylaws; counsel should expand/conform before adoption. -->
 
-# BYLAWS OF [COMPANY NAME], INC.
+# BYLAWS OF COMPLETE MANAGEMENT INC
 ### (a Delaware corporation)
 
 ## ARTICLE I — OFFICES
 
-**1.1 Registered Office.** The registered office of [COMPANY NAME], Inc. (the "Corporation") in Delaware shall be as set forth in the Certificate of Incorporation. **1.2 Other Offices.** The Corporation may have other offices, within or outside Delaware, as the Board of Directors (the "Board") determines.
+**1.1 Registered Office.** The registered office of Complete Management Inc (the "Corporation") in Delaware shall be as set forth in the Certificate of Incorporation. **1.2 Other Offices.** The Corporation may have other offices, within or outside Delaware, as the Board of Directors (the "Board") determines.
 
 ## ARTICLE II — STOCKHOLDERS
 
@@ -76,7 +76,7 @@ To the fullest extent permitted by the DGCL, the Corporation shall indemnify and
 
 **CERTIFICATE OF SECRETARY**
 
-The undersigned, Secretary of [COMPANY NAME], Inc., certifies that the foregoing Bylaws were adopted by the Board of Directors as of July 2, 2026.
+The undersigned, Secretary of Complete Management Inc, certifies that the foregoing Bylaws were adopted by the Board of Directors as of July 2, 2026.
 
 &nbsp;
 

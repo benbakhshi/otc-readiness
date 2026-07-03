@@ -2,23 +2,23 @@
 <!-- The company does not file Form 211 itself — a FINRA member market maker (or OTC Markets as a qualified IDQS) does. -->
 <!-- This package assembles everything they will ask for, generated from the master file. -->
 
-# FORM 211 SUPPORT PACKAGE — [COMPANY NAME], Inc.
+# FORM 211 SUPPORT PACKAGE — Complete Management Inc
 
 **Prepared:** July 2, 2026
 **Target tier:** OTCID Basic Market
-**Desired symbol:**  | **CUSIP:** 
+**Desired symbol:** CMPL | **CUSIP:** 
 
 ## A. Issuer Information (Rule 15c2-11(b) items)
 
-1. **Exact name of issuer and predecessors:** [COMPANY NAME], Inc.
-2. **Address of principal executive offices:** , ,  
-3. **State of incorporation:** Delaware ()
+1. **Exact name of issuer and predecessors:** Complete Management Inc
+2. **Address of principal executive offices:** 123 Elm Street, Wilmington, DE 44444
+3. **State of incorporation:** Delaware (07/02/2026)
 4. **Exact title and class of the security:** Common Stock, par $0.0001
 5. **Transfer agent:**  (SEC-registered: Yes)
-6. **Issuer's business, products, services:** 
+6. **Issuer's business, products, services:** asset and property management
 7. **Nature and extent of facilities:** [see Disclosure Statement §5]
 8. **Officers and directors:** [see Disclosure Statement §6]
-9. **Total shares outstanding:** 0 | **Public float:** 0 | **Holders of record:** 0
+9. **Total shares outstanding:** 0 | **Public float:** 1,000,000 | **Holders of record:** 4
 10. **Recent financial statements:** balance sheet, income statement, cash flow, changes in equity + notes (US GAAP) for the two most recent fiscal years (or since inception) and any interim period — attached
 11. **Whether the issuer or its predecessor was a shell:** No
 

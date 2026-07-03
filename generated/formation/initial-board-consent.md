@@ -1,9 +1,9 @@
 <!-- TEMPLATE: Initial Unanimous Written Consent of the Board of Directors -->
 <!-- DRAFT FOR COUNSEL REVIEW -->
 
-# UNANIMOUS WRITTEN CONSENT OF THE BOARD OF DIRECTORS OF [COMPANY NAME], INC. IN LIEU OF ORGANIZATIONAL MEETING
+# UNANIMOUS WRITTEN CONSENT OF THE BOARD OF DIRECTORS OF COMPLETE MANAGEMENT INC IN LIEU OF ORGANIZATIONAL MEETING
 
-The undersigned, constituting all of the members of the Board of Directors (the "Board") of [COMPANY NAME], Inc., a Delaware corporation (the "Corporation"), acting pursuant to Section 141(f) of the General Corporation Law of the State of Delaware, hereby adopt the following resolutions by written consent as of July 2, 2026:
+The undersigned, constituting all of the members of the Board of Directors (the "Board") of Complete Management Inc, a Delaware corporation (the "Corporation"), acting pursuant to Section 141(f) of the General Corporation Law of the State of Delaware, hereby adopt the following resolutions by written consent as of July 2, 2026:
 
 ## 1. Bylaws
 
@@ -15,8 +15,8 @@ The undersigned, constituting all of the members of the Board of Directors (the 
 
 | Name | Office |
 |------|--------|
-|  | Chief Executive Officer |
-|  | Chief Financial Officer / Secretary |
+| Benjamin Bakhshi | Chief Executive Officer |
+| Benjamin Bakhshi | Chief Financial Officer / Secretary |
 
 
 ## 3. Fiscal Year
@@ -59,6 +59,6 @@ IN WITNESS WHEREOF, the undersigned have executed this Consent as of the date fi
 &nbsp;
 
 _______________________________
-, Director
+Benjamin Bakhshi, Director
 
 

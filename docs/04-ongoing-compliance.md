@@ -42,7 +42,7 @@ Cover page: issuer identity/SIC/contacts; period; shares outstanding **now and a
 - **Material news** promptly via OTC Disclosure & News Service; reflect in next periodic report.
 - **Affiliates** must disclose affiliate status to their broker before trading; insiders/10%+ on the verified profile.
 - **Blue sky:** OTC's statewide secondary-trading exemptions (41 states OTCQX / 37 OTCQB, Sept 2025) generally do **not** cover OTCID — rely on manual exemptions (Mergent, ~44 jurisdictions) or state-by-state counsel analysis.
-- Annual OTC fee; DE good standing; respond to OTC Markets inquiries.
+- Annual OTC fee — **$8,040/yr** as of July 1, 2026 (verified against the fee schedule); termination for non-payment allows a $1,000 re-activation within 30 days, full reapplication after. DE good standing; respond to OTC Markets inquiries.
 
 ## Sources
 

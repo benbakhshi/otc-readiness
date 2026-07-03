@@ -5,8 +5,8 @@
 
 # MANAGEMENT CERTIFICATION — OTCID BASIC MARKET
 
-**Issuer:** [COMPANY NAME], Inc.
-**Symbol:**  | **CUSIP:** 
+**Issuer:** Complete Management Inc
+**Symbol:** CMPL | **CUSIP:** 
 **State of incorporation:** Delaware — standing: [Good Standing]
 **Certification date:** [DATE]
 
@@ -30,17 +30,17 @@ The issuer understands its ongoing obligations under the OTCID Rules, including:
 
 | Name | Title |
 |------|-------|
-|  | Chief Executive Officer |
-|  | Chief Financial Officer / Secretary |
+| Benjamin Bakhshi | Chief Executive Officer |
+| Benjamin Bakhshi | Chief Financial Officer / Secretary |
 
-|  | Director |
+| Benjamin Bakhshi | Director |
 
 
 ## 5. Beneficial Owners of 5% or More
 
 | Holder | Class | Shares | % of Class |
 |--------|-------|--------|------------|
-|  | Common Stock | 0 |  |
+| Benjamin and Bar Bakhshi Trust | Common Stock | 100,000 | 10% |
 
 
 ## 6. Convertible Debt / Note Holders
@@ -58,5 +58,5 @@ The information contained in the issuer's current disclosure statement and Verif
 &nbsp;
 
 _______________________________
-, Chief Executive Officer
-[COMPANY NAME], Inc.
+Benjamin Bakhshi, Chief Executive Officer
+Complete Management Inc

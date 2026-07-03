@@ -1,7 +1,9 @@
 {
-  "generated_at": "2026-07-03T03:38:04.248Z",
+  "generated_at": "2026-07-03T04:49:45.496Z",
   "check_only": false,
-  "reconciliation_issues": [],
+  "reconciliation_issues": [
+    "restricted + free_trading (1,000,000) does not equal outstanding (0)."
+  ],
   "files": [
     {
       "template": "formation/action-of-sole-incorporator.md",

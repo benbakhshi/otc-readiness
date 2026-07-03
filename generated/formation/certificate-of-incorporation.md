@@ -1,15 +1,15 @@
 <!-- TEMPLATE: Certificate of Incorporation (Delaware C Corp, public-company ready) -->
 <!-- DRAFT FOR COUNSEL REVIEW — do not file without review by Delaware/securities counsel. -->
 
-# CERTIFICATE OF INCORPORATION OF [COMPANY NAME], INC.
+# CERTIFICATE OF INCORPORATION OF COMPLETE MANAGEMENT INC
 
 ## ARTICLE I — NAME
 
-The name of the corporation is [COMPANY NAME], Inc. (the "Corporation").
+The name of the corporation is Complete Management Inc (the "Corporation").
 
 ## ARTICLE II — REGISTERED OFFICE AND AGENT
 
-The address of the Corporation's registered office in the State of Delaware is , County of . The name of its registered agent at such address is .
+The address of the Corporation's registered office in the State of Delaware is 123 Elm St, Wilimington, DE, 44444, County of Wilmington. The name of its registered agent at such address is Delaware inc.
 
 ## ARTICLE III — PURPOSE
 
@@ -49,7 +49,7 @@ The Corporation reserves the right to amend, alter, change or repeal any provisi
 
 ## ARTICLE X — INCORPORATOR
 
-The name and mailing address of the incorporator are: , .
+The name and mailing address of the incorporator are: Benjamin Bakhshi, 306 Menhaden Court, Foster City, CA, 94404.
 
 ---
 
@@ -58,4 +58,4 @@ IN WITNESS WHEREOF, the undersigned, being the incorporator hereinabove named, h
 &nbsp;
 
 _______________________________
-, Incorporator
+Benjamin Bakhshi, Incorporator

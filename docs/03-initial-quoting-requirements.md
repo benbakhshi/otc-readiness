@@ -14,13 +14,13 @@ Process: OTC Markets Gateway application → **OTCIQ** account → subscribe to 
 
 Ongoing eligibility: quarterly + annual disclosure, annual Management Certification, profile verification every 6 months, DE good standing, transfer agent in the **Verified Shares Program**, corporate actions to FINRA ≥10 business days ahead.
 
-**Fees:** application **$3,500**; annual issuer fee reported **$6,000–$7,500** — confirm against the [official fee schedule](https://www.otcmarkets.com/corporate-services/fee-schedule). ([KJK](https://kjk.com/2025/03/21/otc-markets-launches-new-market-tier-otc-pink-companies-must-act-now/))
+**Fees (verified against the OTC Markets fee schedule as updated July 1, 2026):** application **$3,500** (one-time, paid via ACH/wire/card at submission through Gateway); annual issuer fee **$8,040/yr** (raised from $7,500 effective July 1, 2026 — the $6,000 figure circulating in secondary sources is actually the OTCQX/OTCQB application fee). If terminated for non-payment: $1,000 re-activation fee within 30 days, full reapplication after. ([Fee schedule](https://www.otcmarkets.com/corporate-services/fee-schedule), [OTCID Rules v1.0](https://www.otcmarkets.com/files/OTCIDRules.pdf))
 
 ## FINRA Form 211 (FINRA Rule 6432)
 
-- Filed by a **sponsoring market maker** via FINRA Gateway, or by **OTC Link ATS acting as a Qualified IDQS** (post-amendment path); once a QIDQS determination is public, other market makers may piggyback.
+- Filed by a **sponsoring market maker** via FINRA Gateway (new streamlined Form 211 platform live since **March 30, 2026**). OTC Link ATS operates as a **Qualified IDQS**, but its initial 15c2-11 reviews serve companies joining **OTCQX/OTCQB** (per OTC Markets' FY2025 annual report) — an OTCID-bound company should plan on a sponsoring market maker. Once an initial review determination is public, other market makers may piggyback without filing their own 211.
 - **The market maker needs:** articles/bylaws, full cap table, business description, management bios, financials, tradability/legal opinion, certified shareholder list, material contracts, litigation history, related-party detail.
-- **Timeline:** ~4–8 weeks FINRA review for clean filings; 60–90+ days for shells/reverse mergers. Whole project commonly 3–6 months.
+- **Timeline:** no official FINRA SLA; current practitioner estimates ~30–45 days for straightforward filings with complete documentation, 60–90+ days for shells/reverse mergers. Whole project commonly 3–6 months.
 - **FINRA Rule 5250:** market makers may NOT accept payment from the issuer for filing/quoting. Costs flow through counsel/consultants (~$35K–$75K all-in). ([FINRA Notice 14-26](https://www.finra.org/rules-guidance/notices/14-26))
 
 ## Scrutiny flags
@@ -33,7 +33,7 @@ Ongoing eligibility: quarterly + annual disclosure, annual Management Certificat
 
 | Item | Detail |
 |------|--------|
-| CUSIP | [cusip.com/apply](https://www.cusip.com/apply) — $210 first ID, 1–2 business days |
+| CUSIP | [cusip.com/apply](https://www.cusip.com/apply) — $210 first ID (+$34 each additional class), 1–2 business days; 1-hour express at +60% (~$336) |
 | EDGAR codes | Not needed for OTCIQ disclosure itself; needed to file Form D for Reg D raises (free, Form ID) |
 | Transfer agent | Must join OTC's Transfer Agent Verified Shares Program (mandatory for US/Canadian OTCID issuers) |
 | DTC eligibility | Apply **through a DTC participant** (sponsor) post-quotation with tradability opinion; without it, trades settle by certificate and most brokers refuse the stock |
