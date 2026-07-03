@@ -303,10 +303,11 @@ async function renderDocuments(openArg) {
     try {
       const r = await api('/api/generate', { method: 'POST' });
       const missing = r.files.filter(f => f.unresolved.length);
-      $('#gen-msg').textContent = `Generated ${r.files.length} documents` +
+      const msg = `Generated ${r.files.length} documents` +
         (r.reconciliation_issues.length ? ` — ⚠ ${r.reconciliation_issues.join(' ')}` : '') +
         (missing.length ? ` — unresolved fields in ${missing.map(m => m.template).join(', ')}` : ' — all fields resolved ✓');
-      render('documents');
+      await render('documents');
+      $('#gen-msg').textContent = msg;
     } catch (err) { $('#gen-msg').textContent = err.message; }
   });
   if (openArg) open(openArg.kind, openArg.path);
